@@ -1,7 +1,7 @@
 name: Realtor Omaha Nebraska Troy Granger
 favicon: null
-layout_spectrum: 0.75331
-typography_spectrum: 0.73896
+layout_spectrum: 0.24669
+typography_spectrum: 0.25
 title: Real Estate Omaha Nebraska
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#6a9a13'
     - '#b5bfd0'
     - '#445b84'
-  brandStrength: 0.5
-  lightness: 0.45351617713458836
+  brandStrength: 0.5625
+  lightness: 0.4375
   saturation: 0.6875
   rhythmicContrast: 0.75
 purpose: []
