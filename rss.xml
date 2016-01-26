@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Real Estate Omaha Nebraska]]></title>
         <description><![CDATA[Real Estate Omaha Nebraska]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/realtor-omaha-nebraska-troy-granger/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 19:07:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jan 2016 19:39:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/realtor-omaha-nebraska-troy-granger/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/458bdd85-0d41-4347-8d3c-40a008e6c0ea.jpg">]]></description>
+            <link>https://thegrid.ai/realtor-omaha-nebraska-troy-granger/d792dd2d-f6bd-46ac-bca7-419be9592df9/index.html</link>
+            <guid isPermaLink="false">d792dd2d-f6bd-46ac-bca7-419be9592df9</guid>
+            <pubDate>Tue, 26 Jan 2016 19:38:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d808ce15-0ef6-4c2b-8b80-45e659110a18.jpg">]]></description>
-            <link>undefinedba771a5d-041d-4d0e-b37c-cbb502caa178/index.html</link>
+            <link>https://thegrid.ai/realtor-omaha-nebraska-troy-granger/ba771a5d-041d-4d0e-b37c-cbb502caa178/index.html</link>
             <guid isPermaLink="false">ba771a5d-041d-4d0e-b37c-cbb502caa178</guid>
             <pubDate>Tue, 26 Jan 2016 19:07:51 GMT</pubDate>
         </item>
